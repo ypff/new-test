@@ -1,4 +1,4 @@
-## git guide for JupyterLab-git extension
+## 
 
 ### 1. Getting started with the basic command line
 
